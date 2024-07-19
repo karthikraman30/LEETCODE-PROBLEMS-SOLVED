@@ -45,7 +45,7 @@ float max_avg_sub(int arr[], int n, int k) {
     }
     return max_avg;
 }
-
+//good question
 
 int main(){
     int arr[] = {1,12,-5,-6,50,3};
